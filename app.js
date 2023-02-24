@@ -21,3 +21,4 @@ const newItems = _.flattenDeep(items);
 const newItems2 = _.flattenDeep(item2);
 console.log(newItems);
 console.log(newItems2);
+console.log("Hello World");
